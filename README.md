@@ -2,9 +2,14 @@
 
 This project was created by [Jaroslaw Narkiewicz](http://www.jaroslawnarkiewicz.com) and generated with [Angular CLI](https://github.com/angular/angular-cli) version 7.1.0.
 
+## Node Packaged Modules
+
+Run 'npm install' to download and install needed packages.
+
 ## Development server
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
+Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`
+<br> The app will automatically reload if you change any of the source files.
 
 ## Production
 
