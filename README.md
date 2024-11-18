@@ -10,7 +10,3 @@ Run `npm install` to download and install needed packages.
 
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`
 <br> The app will automatically reload if you change any of the source files.
-
-## Production
-
-To see live app go check out the [JN Airlines](https://angular7.jaroslawnarkiewicz.com) `Beta Version`.
